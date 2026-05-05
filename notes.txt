@@ -1,0 +1,14 @@
+Git pull
+
+
+ls
+# list in current directory
+pwd
+
+cd ..
+
+mkdir
+
+git init
+
+git branch
